@@ -1,4 +1,5 @@
 **This README.MD has been made using AI**
+It has not been checked on correctness. 
 
 
 # Accent Classification with Deep Learning

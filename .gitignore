@@ -2,3 +2,4 @@ Test set/
 train/
 .venv/
 .DS_Store
+DL.code-workspace

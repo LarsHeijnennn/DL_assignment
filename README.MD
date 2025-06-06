@@ -30,8 +30,8 @@ Both approaches use PyTorch and torchaudio, and are designed for multi-class acc
 .
 ├── assignment_a.ipynb
 ├── assignment_b_latest-2.ipynb
-├── Train/                # Training audio files (WAV)
-├── Test set/             # Test audio files (WAV)
+├── Train/                # Training audio files (WAV), excluded from Github
+├── Test set/             # Test audio files (WAV), excluded from Github
 ├── saved_models/
 │   ├── A/                # Models from Approach A (1D CNNs)
 │   └── B/                # Models from Approach B (2D CNNs)

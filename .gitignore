@@ -3,3 +3,4 @@ train/
 .venv/
 .DS_Store
 DL.code-workspace
+results_to_submit/

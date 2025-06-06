@@ -1,6 +1,3 @@
-**This README.MD has been made using AI**  
-It has not been checked on correctness.  
-
 # Accent Classification with Deep Learning
 
 This repository contains two main Jupyter notebooks for accent classification using deep learning on raw audio and spectrogram representations:
